@@ -6,49 +6,49 @@
         "employee_name": "Tiger Nixon",
         "employee_salary": 320800,
         "employee_age": 26,
-        "employee_color":"rgb(42, 95, 255)",
+        "employee_color":"rgb(42, 95, 255)"
     },
     {
         "id": 2,
         "employee_name": "Garrett Winters",
         "employee_salary": 170750,
         "employee_age": 35,
-        "employee_color":"rgb(255, 67, 42)",
+        "employee_color":"rgb(255, 67, 42)"
     },
     {
         "id": 3,
         "employee_name": "Anne Cox",
         "employee_salary": 86000,
         "employee_age": 26,
-        "employee_color":"rgb(255, 230, 42)",
+        "employee_color":"rgb(255, 230, 42)"
     },
     {
         "id": 4,
         "employee_name": "Hellen Kelly",
         "employee_salary": 433060,
         "employee_age": 36,
-        "employee_color":"rgb(65, 152, 37)",
+        "employee_color":"rgb(65, 152, 37)"
     },
     {
         "id": 5,
         "employee_name": "Airi Satou",
         "employee_salary": 162700,
         "employee_age": 33,
-        "employee_color":"rgb(247, 134, 29)",
+        "employee_color":"rgb(247, 134, 29)"
     },
     {
         "id": 6,
         "employee_name": "Brielle Williamson",
         "employee_salary": 372000,
         "employee_age": 22,
-        "employee_color":"rgb(45, 206, 195)",
+        "employee_color":"rgb(45, 206, 195)"
     },
     {
         "id": 7,
         "employee_name": "Herrod Chandler",
         "employee_salary": 137500,
         "employee_age": 30,
-        "employee_color":"rgb(153, 179, 255)",
+        "employee_color":"rgb(153, 179, 255)"
     }
     ],
     "monthSales": [
