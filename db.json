@@ -88,13 +88,25 @@
         "daySales": 540
         }
     ],
-    "historical": {
+    "historical": [
+        {
+            "id": 2021,
+            "month": [
+                {
+                    "id": 12,
+                    "data_name": "JANUARY/2023",
+                    "monthly_income": 193050,
+                    "monthly_expenses": 160346
+                }
+            ]
+        },
+        {
         "id": 2021,
         "month": [
             {
                 "id": 12,
                 "data_name": "DECEMBER/2021",
-                "monthly_income": 193050,
+                "monthly_income": 212050,
                 "monthly_expenses": 160346
             },
             {
@@ -147,5 +159,6 @@
             }
         ]
     }
+    ]
 
 }
