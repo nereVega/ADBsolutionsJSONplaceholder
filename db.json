@@ -101,64 +101,81 @@
             ]
         },
         {
-        "id": 2021,
-        "month": [
-            {
-                "id": 12,
-                "data_name": "DECEMBER/2021",
-                "monthly_income": 212050,
-                "monthly_expenses": 160346
-            },
-            {
-                "id": 11,
-                "data_name": "NOVEMBER/2021",
-                "monthly_income": 185060,
-                "monthly_expenses": 150346
-            },
-            {
-                "id": 10,
-                "data_name": "OCTOBER/2021",
-                "monthly_income": 171030,
-                "monthly_expenses": 140346
-            },
-            {
-                "id": 9,
-                "data_name": "SEPTEMBER/2021",
-                "monthly_income": 160050,
-                "monthly_expenses": 100370
-            },
-            {
-                "id": 8,
-                "data_name": "AUGUST/2021",
-                "monthly_income": 153120,
-                "monthly_expenses": 110570
-            },
-            {
-                "id": 7,
-                "data_name": "JULY/2021",
-                "monthly_income": 192050,
-                "monthly_expenses": 170346
-            },
-            {
-                "id": 6,
-                "data_name": "JUNE/2021",
-                "monthly_income": 193050,
-                "monthly_expenses": 160346
-            },
-            {
-                "id": 5,
-                "data_name": "MAY/2021",
-                "monthly_income": 163050,
-                "monthly_expenses": 160346
-            },
-            {
-                "id": 4,
-                "data_name": "APRIL/2021",
-                "monthly_income": 160050,
-                "monthly_expenses": 160346
-            }
+            "id": 2021,
+            "month": [
+                {
+                    "id": 1,
+                    "data_name": "JANUARY/2021",
+                    "monthly_income": "noData",
+                    "monthly_expenses": "noData"
+                },
+                {
+                    "id": 2,
+                    "data_name": "FEBRUARY/2021",
+                    "monthly_income": "noData",
+                    "monthly_expenses": "noData"
+                },
+                {
+                    "id": 3,
+                    "data_name": "MARCH/2021",
+                    "monthly_income": "noData",
+                    "monthly_expenses": "noData"
+                },
+                {
+                    "id": 4,
+                    "data_name": "APRIL/2021",
+                    "monthly_income": 160050,
+                    "monthly_expenses": 160346
+                },
+                {
+                    "id": 5,
+                    "data_name": "MAY/2021",
+                    "monthly_income": 163050,
+                    "monthly_expenses": 160346
+                },
+                {
+                    "id": 6,
+                    "data_name": "JUNE/2021",
+                    "monthly_income": 193050,
+                    "monthly_expenses": 160346
+                },
+                {
+                    "id": 7,
+                    "data_name": "JULY/2021",
+                    "monthly_income": 192050,
+                    "monthly_expenses": 170346
+                },
+                {
+                    "id": 8,
+                    "data_name": "AUGUST/2021",
+                    "monthly_income": 153120,
+                    "monthly_expenses": 110570
+                },
+                {
+                    "id": 9,
+                    "data_name": "SEPTEMBER/2021",
+                    "monthly_income": 160050,
+                    "monthly_expenses": 100370
+                },
+                {
+                    "id": 10,
+                    "data_name": "OCTOBER/2021",
+                    "monthly_income": 171030,
+                    "monthly_expenses": 140346
+                },
+                {
+                    "id": 11,
+                    "data_name": "NOVEMBER/2021",
+                    "monthly_income": 185060,
+                    "monthly_expenses": 150346
+                },
+                {
+                    "id": 12,
+                    "data_name": "DECEMBER/2021",
+                    "monthly_income": 212050,
+                    "monthly_expenses": 160346
+                } 
         ]
     }
     ]
-
 }
